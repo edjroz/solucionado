@@ -5,8 +5,9 @@ This projects consists in creating a network in wich people can work together to
 
 TO-DO
 =====
-- Landing page to describe the project
-- Web app
+- Define posting and commenting rules.
+- Landing page to describe the project.
+- Web app.
 - Android/iOS mobile apps for easy voter access and follow topics.
 - Bring down the system (for we shall no longer be part of the personal agenda of those in charge) and many other things.
 
